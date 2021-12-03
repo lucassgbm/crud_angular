@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "meu primeiro produto",
+      "price": "1111111",
+      "id": 1
+    },
+    {
+      "name": "meu segundo produto ALTERADO",
+      "price": "2222222",
+      "id": 2
+    },
+    {
+      "name": "Novo produto aqui",
+      "price": "2000",
+      "id": 3
+    },
+    {
+      "name": "Outro produto aqui",
+      "price": "1234112",
+      "id": 4
+    },
+    {
+      "name": "criei depois editei",
+      "price": "100",
+      "id": 5
+    }
+  ]
+}
